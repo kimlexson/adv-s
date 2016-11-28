@@ -65,14 +65,14 @@
         },
         {
           "id": 102,
-          "description": "In Hagia Sophia, a team builds a scale model of the core structure and puts in on a shake table to investigate if the building will survive the next big earthquake to hit Istanbul.In Petra, stone masons carve a Nabataean style tomb for the first time in 2,000 year",
+          "description": "File:How To Use Bricklaying Tools",
           "sources": [
-            "roller_coaster.mp4"
+            "File:How To Use Bricklaying Tools.mp4"
           ],
           "card": "roller_coaster_thumbnail.jpg",
           "background": "roller_coaster_bg.jpg",
           "title": "The Timelapse of Building Wonders",
-          "studio": "https://vimeo.com/113535031"
+          "studio": "smb://104.131.62.175/anonymous/How%20To%20Use%20Bricklaying%20Tools.mp4"
         }
       ]
     }
